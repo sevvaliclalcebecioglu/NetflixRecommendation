@@ -1,4 +1,4 @@
-# 🎬 Content-Based Recommendation System with Cosine Similarity
+# 🎬 Netflix Recommendation System with Cosine Similarity
 
 This project implements a **content-based recommendation system** using **TF-IDF** and **Cosine Similarity** to suggest similar movies or TV shows based on their descriptions.  
 It also includes **data visualization** to better understand similarity scores.
